@@ -35,6 +35,7 @@ Link to itch:
 ![image](https://github.com/hodwys/CarGameH/assets/92233601/63b6e57a-dfd6-4a4e-827f-2f900ae07a52)
 
 כך לאחר שאותו אוייב ספציפי כבר לא יהיה רלוונטי הוא יושמד.
+
 לשחקן יש סריפט של GameOver וסריפט של DestroyOnTrigger2D:
 קוד DestroyOnTrigger2D:
 ![image](https://github.com/hodwys/CarGameH/assets/92233601/b5f4f3d5-fc4f-4923-9fd5-b7198fedffb8)
