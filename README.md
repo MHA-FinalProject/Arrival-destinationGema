@@ -27,10 +27,7 @@ Link to itch:
 
 ![image](https://github.com/hodwys/CarGameH/assets/92233601/d2ae4c41-73f3-47cf-8e87-a45198a844e7)
 
-
 על מנת שלא יווצרו מלא אויביים שאנחנו לא צריכים וגם כתוצאה מזה המחשב יתקע בשלב מסויים נרדש להשמיד את האוייבים לאחר שיצאו מגבולות המלצמה ולכן הוספתי את התנאי הבא:
-
-
 
 ![image](https://github.com/hodwys/CarGameH/assets/92233601/63b6e57a-dfd6-4a4e-827f-2f900ae07a52)
 
