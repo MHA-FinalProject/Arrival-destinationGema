@@ -1,7 +1,8 @@
 # Arrival-destinationGema
 
 Link to itch:
-https://m-h-a.itch.io/arrival-destination
+
+[ https://m-h-a.itch.io/arrival-destination ]
 
 תמונת רקע:
 
