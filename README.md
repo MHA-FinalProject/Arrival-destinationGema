@@ -15,7 +15,7 @@ Link to itch:
 במשחק זה המטרה היא לנהוג מבלי להתנגש במכוניות הבאות ממול. ברגע שהשחקן מתנגש ב"אוייבים" אז השחקן מושמד והמשחק נגמר.
 בפינה הימינית של המסך ניתן לראות מפה שמתארת איפה השחקן נמצא ביחס לעולם המשחק.
 לכל אחד מהאוייבים קיים Collider 2D, Rigidbody 2D, Sprite Renderer, Move, Time Spawner Random
-לרכיבי ה  Move וה Time Spawner Random הוספתי להם סריפטים.
+לרכיבי ה  Move וה Time Spawner Random הוספתי להם סeריפטים.
 
 רכיב הMove: מעדכן את המיקום של המודל, נדרש להוסיף בשביל ה Time Spawner Random
 
