@@ -8,7 +8,6 @@ Link to itch:
 
 ![image](https://github.com/MHA-FinalProject/Arrival-destinationGema/assets/92233601/5ef1b888-5d1a-4263-ba1d-1b7c59bd63bf)
 
-
 במשחק זה המטרה היא לנהוג מבלי להתנגש במכוניות הבאות ממול. ברגע שהשחקן מתנגש ב"אוייבים" אז השחקן מושמד והמשחק נגמר.
 בפינה הימינית של המסך ניתן לראות מפה שמתארת איפה השחקן נמצא ביחס לעולם המשחק.
 לכל אחד מהאוייבים קיים Collider 2D, Rigidbody 2D, Sprite Renderer, Move, Time Spawner Random
@@ -17,7 +16,6 @@ Link to itch:
 
 
 ![image](https://github.com/hodwys/CarGameH/assets/92233601/f39efb7a-0979-49a1-af3a-d259d3589c65)
-
 
 רכיב הTime Spawner Rando: 
 הגדרתי 2 משתנים מינים ומקסימום זמנים שצריך לחכות בין כל יצירת אוייב.
