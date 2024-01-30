@@ -22,11 +22,8 @@ Link to itch:
 רכיב הTime Spawner Rando: 
 הגדרתי 2 משתנים מינים ומקסימום זמנים שצריך לחכות בין כל יצירת אוייב.
 
-
 ![image](https://github.com/hodwys/CarGameH/assets/92233601/a4b88a9b-eb60-4e11-be6d-db57d7cc34e1)
-
 בפונקציה זו נוצר האוייב בזמן רנדומלי בין המינימום למקסימום זמן.
-
 
 ![image](https://github.com/hodwys/CarGameH/assets/92233601/d2ae4c41-73f3-47cf-8e87-a45198a844e7)
 
@@ -36,7 +33,6 @@ Link to itch:
 
 
 ![image](https://github.com/hodwys/CarGameH/assets/92233601/63b6e57a-dfd6-4a4e-827f-2f900ae07a52)
-
 כך לאחר שאותו אוייב ספציפי כבר לא יהיה רלוונטי הוא יושמד.
 
 לשחקן יש סריפט של GameOver וסריפט של DestroyOnTrigger2D:
@@ -50,5 +46,3 @@ Link to itch:
 
 הפונקציה בודקת אם השחקן התנגש ברכיב שהוגדר ואם כן מודפס שהמשחק נגמר והמשחק נעצר.
 במטלה זאת השתמשתי במה שלמדנו בשיעור. 
-
-
