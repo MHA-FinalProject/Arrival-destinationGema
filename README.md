@@ -15,7 +15,7 @@ Link to itch:
 
 ![image](https://github.com/hodwys/CarGameH/assets/92233601/f39efb7a-0979-49a1-af3a-d259d3589c65)
 
-רכיב הTime Spawner Rando: 
+רכיב הTime Spawner Rando:
 הגדרתי 2 משתנים מינים ומקסימום זמנים שצריך לחכות בין כל יצירת אוייב.
 
 ![image](https://github.com/hodwys/CarGameH/assets/92233601/a4b88a9b-eb60-4e11-be6d-db57d7cc34e1)
